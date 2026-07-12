@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello Developers!!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h1>
+<h1 align="center">Hi, I'm Dhruvan  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h1>
   
 
 
